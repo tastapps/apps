@@ -2,10 +2,9 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "tasty.js",
+  "main": "manal.js",
   "scripts": {
-    "fetch:tasty": "babel-node tasty.js",
-    "fetch:hairstyle": "babel-node hairstyle.js"
+    "fetch:manal": "babel-node manal.js"
   },
   "author": "",
   "license": "ISC",

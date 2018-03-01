@@ -5,19 +5,19 @@ const fetch = require('node-fetch')
 const apiKey = "AIzaSyB0UrMBga1irhR9qS1zr3EqGe-rFTdokZI"
 
 const categories = [
-  { name: "easystyles", playlists: ['PL_SCossQygjsoOc2rxaxzQfLoNxAqomTC'] },
-  { name: "mediumstyles", playlists: ['PL_SCossQygjtI_ve7IhdAG255oLYYB7L_'] },
-  { name: "hardstyles", playlists: ['PL_SCossQygjsPNsIbDvkrfphSYoDXyJN9'] },
-  { name: "curlyhair", playlists: ['PL_SCossQygjsZ66U0qxm-YdvE64SYXDfd'] },
-  { name: "longhair", playlists: ['PLcIo4FrJoTMeSg_E5PSE_DBVyrcuJ_n3f'] },
-  { name: "fiveminutes", playlists: ['PL_SCossQygjvaqKGgHuIlOEtFUrWOoaVn'] },
-  { name: "school", playlists: ['PL_SCossQygjvP7-rewyz9mZ_fGyDODyT-'] },
-  { name: "sidebraids", playlists: ['PL_SCossQygjt809pWMmDI4f8Yylqqw7FD'] },
-  { name: "ropebraids", playlists: ['PL_SCossQygjtZA7hl-khA3N7coh0njwcN'] },
-  { name: "loonybraids", playlists: ['PL_SCossQygjtZMkULyriM6sTSg9dNhrw2'] },
-  { name: "knothair", playlists: ['PL_SCossQygjtswlkNBEsdf-V4ZSqpmHOJ'] },
-  { name: "pancakebraids", playlists: ['PL_SCossQygjtE7MMdxFHDkEf3HbGUH2PU'] },
-  { name: "ponytails", playlists: ['PL71DFACD723F50CC3'] },  
+  { name: "halawiate", playlists: ['PL46uIUAbCJThCgDOhJRM9RwN9RKSQGo0w'] },
+  { name: "fotour", playlists: ['PL46uIUAbCJThxWL4HVXT5BE6TCvEl1GFV'] },
+  { name: "machroubat", playlists: ['PL46uIUAbCJTiGBnmWqz2XCjQQJBBJ5njd'] },
+  { name: "dajaj", playlists: ['PL46uIUAbCJTi8zexbugEwZOQDI2DdSUqe'] },
+  { name: "sahla", playlists: ['PL46uIUAbCJTgcnkv9RLVJchVB4X-nR_aL'] },
+  { name: "monassabat", playlists: ['PL46uIUAbCJThxPqx9wvUfquzP4iGA6NSs'] },
+  { name: "adha", playlists: ['PL46uIUAbCJTjetkOciTbCDvdq8rNZ3F8f'] },
+  { name: "raissia", playlists: ['PL46uIUAbCJTgveIQXifBy8jfOgcY8rkDL'] },
+  { name: "mokabilat", playlists: ['PL9FC89173945AEBE1'] },
+  { name: "janibia", playlists: ['PL7C8DB4875BE61228'] },
+  { name: "ramadan", playlists: ['PL46uIUAbCJTgIrNoVL1oRxKbaQjiIx2JP'] },
+  { name: "bahria", playlists: ['PL46uIUAbCJThLIcKh_frMV0Vr_RePZYL7'] },
+  { name: "lohoum", playlists: ['PL46uIUAbCJThTnbTSpoCqFdXAAmvrRKKU'] },  
 ]
 
 let videoCategories = {}
@@ -45,8 +45,8 @@ let saveVideos = (videos, category) => {
     return 0
   })
 
-  fs.writeFile(`./hairstyle/categories/${category}.json`, JSON.stringify({ videos: nvideos }))
-  fs.writeFile(`./hairstyle/categories.json`, JSON.stringify({ categories: videoCategories }))
+  fs.writeFile(`./manal/categories/${category}.json`, JSON.stringify({ videos: nvideos }))
+  fs.writeFile(`./manal/categories.json`, JSON.stringify({ categories: videoCategories }))
 }
 
 categories.forEach((c) => {
