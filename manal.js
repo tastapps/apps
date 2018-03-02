@@ -5,6 +5,7 @@ const fetch = require('node-fetch')
 const apiKey = "AIzaSyB0UrMBga1irhR9qS1zr3EqGe-rFTdokZI"
 
 const categories = [
+  { name: "halawiate", playlists: ['PL46uIUAbCJThCgDOhJRM9RwN9RKSQGo0w'] },
   { name: "fotour", playlists: ['PL46uIUAbCJThxWL4HVXT5BE6TCvEl1GFV'] },
   { name: "machroubat", playlists: ['PL46uIUAbCJTiGBnmWqz2XCjQQJBBJ5njd'] },
   { name: "dajaj", playlists: ['PL46uIUAbCJTi8zexbugEwZOQDI2DdSUqe'] },
@@ -27,8 +28,8 @@ let saveVideos = (videos, category) => {
   let nvideos = videos.map((item, index) => ({
     id: item.snippet.resourceId.videoId,
     thumbnail: `http://img.youtube.com/vi/${item.snippet.resourceId.videoId}/0.jpg`,
-    title: "title",
-    description: "description",
+    title: item.snippet.title,
+    description: item.snippet.description,
     date: item.contentDetails.videoPublishedAt
   }))
 
