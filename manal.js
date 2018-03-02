@@ -29,7 +29,7 @@ let saveVideos = (videos, category) => {
     id: item.snippet.resourceId.videoId,
     thumbnail: `http://img.youtube.com/vi/${item.snippet.resourceId.videoId}/0.jpg`,
     title: item.snippet.title,
-    description: item.snippet.description,
+    //description: item.snippet.description,
     date: item.contentDetails.videoPublishedAt
   }))
 
@@ -45,8 +45,8 @@ let saveVideos = (videos, category) => {
     return 0
   })
 
-  fs.writeFile(`./manal/categories/${category}.json`, JSON.stringify({ videos: nvideos }))
-  fs.writeFile(`./manal/categories.json`, JSON.stringify({ categories: videoCategories }))
+  fs.writeFile(`./manal/categories/${category}.json`, JSON.stringify({ videos: nvideos }), (error) => { /* handle error */ })
+  fs.writeFile(`./manal/categories.json`, JSON.stringify({ categories: videoCategories }), (error) => { /* handle error */ })
 }
 
 categories.forEach((c) => {
