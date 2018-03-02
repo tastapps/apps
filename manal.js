@@ -27,8 +27,8 @@ let saveVideos = (videos, category) => {
   let nvideos = videos.map((item, index) => ({
     id: item.snippet.resourceId.videoId,
     thumbnail: `http://img.youtube.com/vi/${item.snippet.resourceId.videoId}/0.jpg`,
-    title: item.snippet.title,
-    //description: item.snippet.description,
+    title: "title",
+    description: "description",
     date: item.contentDetails.videoPublishedAt
   }))
 
