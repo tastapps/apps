@@ -5,7 +5,7 @@ const fetch = require('node-fetch')
 const apiKey = "AIzaSyB0UrMBga1irhR9qS1zr3EqGe-rFTdokZI"
 
 const categories = [
-  { name: "halawiate", playlists: ['PL46uIUAbCJTgCVC0HqHDcb-Y0JrKYnQeQ'] },
+  { name: "halawiate", playlists: ['PL3D1095CC3B711F6E','PLF6560D58534B502B','PL46uIUAbCJTjKMd3KiE7iLwrn8ROs_5p2'] },
   { name: "fotour", playlists: ['PL46uIUAbCJThxWL4HVXT5BE6TCvEl1GFV'] },
   { name: "machroubat", playlists: ['PL46uIUAbCJTiGBnmWqz2XCjQQJBBJ5njd'] },
   { name: "dajaj", playlists: ['PL46uIUAbCJTi8zexbugEwZOQDI2DdSUqe'] },
