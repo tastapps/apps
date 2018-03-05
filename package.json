@@ -4,7 +4,8 @@
   "description": "",
   "main": "manal.js",
   "scripts": {
-    "fetch:manal": "babel-node manal.js"
+    "fetch:manal": "babel-node manal.js",
+    "fetch:saidati": "babel-node saidati.js"
   },
   "author": "",
   "license": "ISC",
