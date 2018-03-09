@@ -7,7 +7,8 @@
     "fetch:manal": "babel-node manal.js",
     "fetch:saidati": "babel-node saidati.js",
     "fetch:chiar": "babel-node chiar.js",
-    "fetch:tastly": "babel-node tastly.js"
+    "fetch:tastly": "babel-node tastly.js",
+    "fetch:siyaka": "babel-node siyaka.js"
   },
   "author": "",
   "license": "ISC",
