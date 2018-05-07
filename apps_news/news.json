@@ -1,5 +1,15 @@
 {"news":[
 			{
+				"title": "Tasty Users Page",
+				"thumbnail": "https://lh3.googleusercontent.com/np84d29mBmDMK4kpQSgOWLdqyJcScGpg1xs5WqzqtXei8IyQy5kycyqTW6vZXAvfUg=s180-rw",
+				"description": "Our new community page on Facebook a place where you can <b>share your thought about the app and ask for new features</b>.",
+				"link": "https://www.facebook.com/Tasty-Recipes-Users-Community-590908094616189/",
+				"caption": "Important News!",
+				"button_text": "Like Page",
+				"button_icon":"thumbs-up",
+				"show": true
+			},	
+			{
 				"title": "Our new tasty app",
 				"thumbnail": "https://lh3.googleusercontent.com/np84d29mBmDMK4kpQSgOWLdqyJcScGpg1xs5WqzqtXei8IyQy5kycyqTW6vZXAvfUg=s180-rw",
 				"description": "<b color=\"danger\">we'll no longer support the actual application</b>,you'll have to <b color=\"primary\">install the new one above</b> in order to get new recipes & updates , <b>don't worry, your liked recipes would be there</b>.",
