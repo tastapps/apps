@@ -1,12 +1,6 @@
 {"news":[
 			{
-				"title": "hello world 1",
-				"thumbnail": "https://lh3.googleusercontent.com/np84d29mBmDMK4kpQSgOWLdqyJcScGpg1xs5WqzqtXei8IyQy5kycyqTW6vZXAvfUg=s180-rw",
-				"description": "just some text just some text just some text just some text just some text just some text just some text just some text ",
-				"link": "https://play.google.com/store/apps/details?id=com.tastyrecipes.mobile.taste"
-			},
-			{
-				"title": "hello world 2",
+				"title": "Our new tasty app",
 				"thumbnail": "https://lh3.googleusercontent.com/np84d29mBmDMK4kpQSgOWLdqyJcScGpg1xs5WqzqtXei8IyQy5kycyqTW6vZXAvfUg=s180-rw",
 				"description": "just some text just some text just some text just some text just some text just some text just some text just some text ",
 				"link": "https://play.google.com/store/apps/details?id=com.tastyrecipes.mobile.taste"
