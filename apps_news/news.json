@@ -2,8 +2,11 @@
 			{
 				"title": "Our new tasty app",
 				"thumbnail": "https://lh3.googleusercontent.com/np84d29mBmDMK4kpQSgOWLdqyJcScGpg1xs5WqzqtXei8IyQy5kycyqTW6vZXAvfUg=s180-rw",
-				"description": "<b color='danger'>we'll no longer support the actual application</b>,you'll have to <b color='primary'>install the new one above</b> in order to get new recipes & updates , <b>don't worry, your liked recipes would be there</b>.",
+				"description": "<b color=\"danger\">we'll no longer support the actual application</b>,you'll have to <b color=\"primary\">install the new one above</b> in order to get new recipes & updates , <b>don't worry, your liked recipes would be there</b>.",
 				"link": "https://play.google.com/store/apps/details?id=com.tastyrecipes.mobile.taste",
+				"caption": "Important News!",
+				"button_text": "Install",
+				"button_icon":"cloud-download",
 				"show": false
 			}
 		]
