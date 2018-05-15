@@ -7,7 +7,7 @@
 				"caption": "Important News!",
 				"button_text": "Like Page",
 				"button_icon":"thumbs-up",
-				"show": false
+				"show": true
 			}
 		]
 }
