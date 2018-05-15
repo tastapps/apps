@@ -3,11 +3,11 @@
 				"title": "Users Community",
 				"thumbnail": "https://lh3.ggpht.com/vcyZimfIRlWrLarEpIj7MMSuqgwIkF4bx5nArKhFWsEqGclnPTAeLLK4cFiQ5QscRIEc=s180-rw",
 				"description": "Like the page and find out which of your <b>friends</b> are tasty users.",
-				"link": "https://www.facebook.com/TastyUsers/",
+				"link": "https://fb.com/TastyUsers/",
 				"caption": "Important News!",
 				"button_text": "Like Page",
 				"button_icon":"thumbs-up",
-				"show": true
+				"show": false
 			}
 		]
 }
