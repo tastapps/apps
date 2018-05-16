@@ -7,7 +7,7 @@
 				"caption": "Important News!",
 				"button_text": "Install Now",
 				"button_icon":"md-cloud-download",
-				"show": true
+				"show": false
 			}
 		]
 }
