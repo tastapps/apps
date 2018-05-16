@@ -1,12 +1,12 @@
 {"news":[
 			{
-				"title": "Users Community",
-				"thumbnail": "https://lh3.ggpht.com/vcyZimfIRlWrLarEpIj7MMSuqgwIkF4bx5nArKhFWsEqGclnPTAeLLK4cFiQ5QscRIEc=s180-rw",
-				"description": "Like the page and find out which of your <b>friends</b> are tasty users.",
-				"link": "https://fb.com/TastyUsers/",
+				"title": "Long Term Support",
+				"thumbnail": "https://image.flaticon.com/icons/svg/187/187150.svg",
+				"description": "<b>This release of the app will no longer be supported</b> please install the new release by tapping the (Install Now) button!",
+				"link": "https://play.google.com/store/apps/details?id=com.picassu.mobile.tastly",
 				"caption": "Important News!",
-				"button_text": "Like Page",
-				"button_icon":"thumbs-up",
+				"button_text": "Install Now",
+				"button_icon":"md-cloud-download",
 				"show": true
 			}
 		]
