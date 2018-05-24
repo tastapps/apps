@@ -1,9 +1,9 @@
 {"news":[
 			{
 				"title": "The New App",
-				"thumbnail": "https://image.flaticon.com/icons/svg/752/752755.svg",
+				"thumbnail": "https://image.flaticon.com/icons/svg/837/837891.svg",
 				"description": "<b>This release of the app will no longer be supported</b> please install the new release by tapping the (Install Now) button!",
-				"link": "https://play.google.com/store/apps/details?id=com.picassu.mobile.tastly",
+				"link": "https://play.google.com/store/apps/details?id=com.qubately.tasty",
 				"caption": "Important News!",
 				"button_text": "Install Now",
 				"button_icon":"md-cloud-download",
