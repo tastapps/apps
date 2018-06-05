@@ -7,7 +7,7 @@
 				"caption": "spread love",
 				"button_text": "Let's Go",
 				"button_icon":"md-thumbs-up",
-				"show": true
+				"show": false
 			}
 		]
 }
