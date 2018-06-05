@@ -1,13 +1,13 @@
 {"news":[
 			{
-				"title": "The New App",
-				"thumbnail": "https://image.flaticon.com/icons/svg/837/837891.svg",
-				"description": "<b>This release of the app will no longer be supported</b> please install the new release by tapping the (Install Now) button!",
+				"title": "Rate the App !",
+				"thumbnail": "https://image.flaticon.com/icons/svg/837/837872.svg",
+				"description": "Please take a moment and <b>Give Us A Rating</b>!",
 				"link": "https://play.google.com/store/apps/details?id=com.qubately.tasty",
-				"caption": "Important News!",
-				"button_text": "Install Now",
-				"button_icon":"md-cloud-download",
-				"show": false
+				"caption": "spread love",
+				"button_text": "Let's Go",
+				"button_icon":"md-thumbs-up",
+				"show": true
 			}
 		]
 }
