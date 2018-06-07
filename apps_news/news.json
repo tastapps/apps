@@ -1,13 +1,13 @@
 {"news":[
 			{
-				"title": "Rate the App !",
-				"thumbnail": "https://image.flaticon.com/icons/svg/837/837872.svg",
-				"description": "Please take a moment and <b>Give Us A Rating</b>!",
-				"link": "https://play.google.com/store/apps/details?id=com.qubately.tasty",
-				"caption": "spread love",
-				"button_text": "Let's Go",
-				"button_icon":"md-thumbs-up",
-				"show": false
+				"title": "Nat Geo",
+				"thumbnail": "https://lh3.googleusercontent.com/dMS_VKz5700GR5DS_fLzArIMz2H53p3A1IjYi10_avOEqPqBZq_1OBG6H5CJvEnsXUfA=s180-rw",
+				"description": "<b>National Geographic</b> Documentaries for Android!",
+				"link": "https://play.google.com/store/apps/details?id=Documentaries",
+				"caption": "our new app!",
+				"button_text": "Install Now",
+				"button_icon":"md-cloud-download",
+				"show": true
 			}
 		]
 }
