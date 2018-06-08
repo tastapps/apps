@@ -1,11 +1,11 @@
 {"news":[
 			{
-				"title": "Nat Geo Videos",
-				"thumbnail": "https://lh3.googleusercontent.com/dMS_VKz5700GR5DS_fLzArIMz2H53p3A1IjYi10_avOEqPqBZq_1OBG6H5CJvEnsXUfA=s180-rw",
+				"title": "Documentaries Videos",
+				"thumbnail": "https://image.flaticon.com/icons/svg/616/616451.svg",
 				"description": "<b>National Geographic</b> Documentaries for Android!",
 				"link": "https://play.google.com/store/apps/details?id=com.best.apps.top.natgeo",
 				"caption": "our new app!",
-				"button_text": "Install Now",
+				"button_text": "Install",
 				"button_icon":"md-cloud-download",
 				"show": true
 			}
