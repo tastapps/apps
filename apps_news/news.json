@@ -3,11 +3,11 @@
 				"title": "Nat Geo: Documentaries",
 				"thumbnail": "https://image.flaticon.com/icons/svg/254/254072.svg",
 				"description": "<b>Be aware of whats going on in the world</b>!",
-				"link": "https://play.google.com/store/apps/details?id=com.best.apps.top.natgeo",
+				"link": "https://play.google.com/store/apps/details?id=com.mouhachama.tasty",
 				"caption": "",
 				"button_text": "Install",
 				"button_icon":"md-cloud-download",
-				"show": false
+				"show": true
 			}
 		]
 }
