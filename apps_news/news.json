@@ -1,13 +1,13 @@
 {"news":[
 			{
-				"title": "Tasty",
+				"title": "Tasty Recipes 💝",
 				"thumbnail": "https://image.flaticon.com/icons/svg/639/639373.svg",
-				"description": "<b>We've Launched a new Tasty Recipes app !</b>!",
-				"link": "https://play.google.com/store/apps/details?id=com.mouhachama.tasty",
-				"caption": "",
+				"description": "<b>We've Launched a 🎉 new Tasty Recipes 🎉 app !</b>!",
+				"link": "https://play.google.com/store/apps/details?id=com.qubately.last.tasty",
+				"caption": "🥩🥑🍅🥞",
 				"button_text": "Install",
 				"button_icon":"md-cloud-download",
-				"show": false
+				"show": true
 			}
 		]
 }
